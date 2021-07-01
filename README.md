@@ -4,7 +4,7 @@ Tutorial:
 [![Tutorial](https://img.youtube.com/vi/aCiz0_w30yo/0.jpg)](https://www.youtube.com/watch?v=aCiz0_w30yo)
 
 ## How to fix hole issues :
-<img src="https://raw.githubusercontent.com/herbou/Unity_HoleVsColors/master/How%20to%20fix%20hole%20issues.PNG" width="100%" />
+<img src="https://raw.githubusercontent.com/herbou/Unity_HoleVsColors/master/How%20to%20fix%20hole%20issues.PNG" width="auto" />
 
 <br><br>
 ## ❤️ Donate
